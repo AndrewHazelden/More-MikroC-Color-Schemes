@@ -1,0 +1,96 @@
+; Charcoal Color Scheme
+; for use with mikroC Pro
+;
+; Version 1.0 - Sept 26, 2012
+;
+; Created by Andrew Hazelden.
+;
+; e-mail:
+; andrew@andrewhazelden.com
+;
+; Blog:
+; http://www.andrewhazelden.com
+;
+
+[Active comment]
+Background=3421236
+Foreground=4243362
+Style=6
+[Assembler]
+Background=3421236
+Foreground=9642132
+Style=3
+[Binary]
+Background=3421236
+Foreground=16711808
+Style=0
+[Character]
+Background=3421236
+Foreground=5805301
+Style=1
+[Comment]
+Background=3421236
+Foreground=4243362
+Style=2
+[Float]
+Background=3421236
+Foreground=16777011
+Style=0
+[Hexadecimal]
+Background=3421236
+Foreground=9211020
+Style=0
+[Identifier]
+Background=3421236
+Foreground=16777215
+Style=1
+[Illegal Char]
+Background=3421236
+Foreground=9727
+Style=0
+[Image link]
+Background=3421236
+Foreground=4243362
+Style=6
+[Number]
+Background=3421236
+Foreground=14466718
+Style=0
+[Octal]
+Background=3421236
+Foreground=3661283
+Style=0
+[Preprocessor]
+Background=3421236
+Foreground=16728319
+Style=2
+[Reserved Word]
+Background=3421236
+Foreground=14466718
+Style=1
+[Space]
+Background=3421236
+Foreground=3421236
+Style=0
+[String]
+Background=3421236
+Foreground=5805301
+Style=0
+[Symbol]
+Background=3421236
+Foreground=16777215
+Style=0
+[Web link]
+Background=3421236
+Foreground=4243362
+Style=6
+[ActiveLineColor]
+Value=6843995
+[ActiveLineVisible]
+Value=1
+[GutterFromColor]
+Value=3421236
+[GutterToColor]
+Value=6316128
+[GutterFontColor]
+Value=16777215

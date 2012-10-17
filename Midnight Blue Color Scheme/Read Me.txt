@@ -1,0 +1,56 @@
+---------------------------
+Midnight Blue Color Scheme 
+     for mikroC Pro
+---------------------------
+
+Version 1.0 - May 20, 2012
+
+The Midnight Blue color scheme is used to customize the syntax highlighting in mikroC Pro. The scheme is designed to work with all of the MikroElektronika MikroC Pro compilers. The Midnight Blue color scheme has been tested with the mikro C Pro for PIC, mikro C Pro for dsPIC, and mikro C Pro for PIC32 compilers.
+
+I created this color scheme to make the mikroC programming experience even better. The color pallet for Midnight Blue was partially inspired from the "Ruby Blue" theme included with notepad++.
+
+Tip: I think mikroC looks pretty spiffy when you combine the mikroC "Office XP" style with the "Midnight Blue" Color Scheme!
+
+Midnight Blue was created by Andrew Hazelden.
+
+e-mail:
+andrew@andrewhazelden.com
+
+Blog:
+http://www.andrewhazelden.com
+
+
+------------------------------------------------------
+
+Installation:
+
+1. Install the Color Scheme
+
+Install the Midnight Blue Color Scheme by copying the file "Midnight Blue.col" from the "Install" folder into the mikroC Pro program directory.
+
+For example, on Windows 7, the mikroC Pro for PIC32 program directory is located at:
+C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC32
+
+For example, on Windows XP, the mikroC Pro for PIC32 program directory is located at:
+C:\Program Files\Mikroelektronika\mikroC Pro for PIC32
+
+2. Activate the Color Scheme in mikroC
+
+Start by launching mikroC Pro. Go to the Tools menu and select the "Options" menu item. 
+
+In the Options window, click on the Editor tab and select the "Style" icon. In the IDE Style section set the IDE Style to "Office XP".
+
+Next, click on the Editor Colors tab. Set the Current Scheme to "Midnight Blue".
+
+Click Okay.
+
+3. You are now ready to enjoy the Midnight Blue theme.
+
+------------------------------------------------------
+
+Software Required:
+
+A MikroElektronika "mikro C Pro" Compiler
+http://www.mikroe.com/eng/categories/view/97/mikroc/
+
+------------------------------------------------------

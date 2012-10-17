@@ -1,0 +1,96 @@
+; Midnight Blue Color Scheme
+; for use with mikroC Pro
+;
+; Version 1.0 - May 20, 2012
+;
+; Created by Andrew Hazelden.
+;
+; e-mail:
+; andrew@andrewhazelden.com
+;
+; Blog:
+; http://www.andrewhazelden.com
+;
+
+[Active comment]
+Background=3482641
+Foreground=12555840
+Style=6
+[Assembler]
+Background=3482385
+Foreground=8388736
+Style=0
+[Binary]
+Background=3482385
+Foreground=16711808
+Style=0
+[Character]
+Background=3482385
+Foreground=4686064
+Style=0
+[Comment]
+Background=3482385
+Foreground=12555840
+Style=2
+[Float]
+Background=3482385
+Foreground=16777011
+Style=0
+[Hexadecimal]
+Background=3482385
+Foreground=8553090
+Style=0
+[Identifier]
+Background=3482385
+Foreground=13873293
+Style=1
+[Illegal Char]
+Background=3482385
+Foreground=255
+Style=0
+[Image link]
+Background=3482385
+Foreground=12555840
+Style=6
+[Number]
+Background=3482385
+Foreground=3129979
+Style=0
+[Octal]
+Background=3482385
+Foreground=2939100
+Style=0
+[Preprocessor]
+Background=3482385
+Foreground=16711935
+Style=2
+[Reserved Word]
+Background=3482385
+Foreground=16777215
+Style=1
+[Space]
+Background=3482385
+Foreground=3482385
+Style=0
+[String]
+Background=3482385
+Foreground=4686064
+Style=0
+[Symbol]
+Background=3482385
+Foreground=16777215
+Style=0
+[Web link]
+Background=3482385
+Foreground=12555840
+Style=6
+[ActiveLineColor]
+Value=5258537
+[ActiveLineVisible]
+Value=1
+[GutterFromColor]
+Value=6374943
+[GutterToColor]
+Value=4861184
+[GutterFontColor]
+Value=16777215
